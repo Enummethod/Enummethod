@@ -20,4 +20,4 @@
  <a href ="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 <a href ="https://www.w3schools.com/html/" target ="_blank"> <img src="https://img.icons8.com/nolan/64/html-5.png"/></a> 
   <a href ="https://www.w3schools.com/css/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> </p>
- # The Quieter You Become, The More You Are Able To Hear
+ ##### The Quieter You Become, The More You Are Able To Hear
