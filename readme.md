@@ -1,5 +1,6 @@
 # A certain darkness is needed to see the stars. 
-## I'm Mustafa.I'm mining engineer and learning zeros and ones.
+## Don't forget stay hungry, stay foolish... (Steve Jobs) 
+
 ### Connect with me:
 
 
