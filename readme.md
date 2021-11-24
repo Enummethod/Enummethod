@@ -1,7 +1,8 @@
 # A certain darkness is needed to see the stars. 
 ##
-<a href ="https://verified.cv/en/verify/51600993796065" target ="_blank"> "Fırat Kalkınma Ajansı Bootcamp" </a> 
-<a href ="https://github.com/Enummethod/Enummethod/files/7596404/JAVA__le_Programlamaya_Giri__Sertifika.1.pdf" target ="_blank"> "BTK Akademi" </a>
+<a href ="https://verified.cv/en/verify/51600993796065" target ="_blank"> "Fırat Kalkınma Ajansı Bootcamp-Kodluyoruz" </a> 
+<img src ="https://user-images.githubusercontent.com/80968031/143256952-54ca65a7-ae4c-4fbd-a78f-a0f2d4a98245.png" target ="_blank"> "Btk Akademi" </a>
+
 
 
 
