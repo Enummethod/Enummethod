@@ -14,7 +14,8 @@
 
 <p align = "center">
  <a href ="https://www.java.com" target ="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a> 
- <a href ="https://hibernate.org/  target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/143248395-99ce094a-acf4-4a2e-98f3-b25484f14990.png"</a>
+ <a href ="https://hibernate.org/  target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/143248742-764e1ac9-89cb-4d5d-a27c-4af4a8425f88.png
+"</a>
    <a href ="https://www.w3schools.com/css/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
  <a href ="https://docs.microsoft.com/tr-tr/visualstudio/get-started/csharp/?view=vs-2019" target ="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/></a> 
   <a href ="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
