@@ -1,5 +1,5 @@
-# A certain darkness is needed to see the stars. 
-##
+# Stay Hungry Stay Foolish(Steve Jobs).  
+## Certificate
 <a href ="https://verified.cv/en/verify/51600993796065" target ="_blank"> "Fırat Kalkınma Ajansı Bootcamp-Kodluyoruz" </a> 
 
 
@@ -27,5 +27,6 @@
  <a href ="https://www.docker.com/" target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/143250166-f383d00e-92ac-4840-abd5-c070af9bc5e7.png"/></a>  
  <a href ="https://docs.microsoft.com/tr-tr/visualstudio/get-started/csharp/?view=vs-2019" target ="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/></a> 
  
+  
   
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> The Quieter You Become, The More You Are Able To Hear
