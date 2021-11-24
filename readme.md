@@ -1,6 +1,7 @@
 # A certain darkness is needed to see the stars. 
-## Don't forget stay hungry, stay foolish... (Steve Jobs) 
-
+## Stay hungry, stay foolish... (Steve Jobs) 
+<a href ="https://verified.cv/en/verify/51600993796065 target ="_blank"> 
+<a href ="https://user-images.githubusercontent.com/80968031/143255078-72d78857-c1c3-4e2e-853a-69e8e19a5c5c.png target ="_blank">                                                                        
 ### Connect with me:
 
 
