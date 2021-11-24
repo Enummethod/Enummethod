@@ -1,13 +1,10 @@
 # A certain darkness is needed to see the stars. 
-## Stay hungry, stay foolish... (Steve Jobs) 
-
-https://verified.cv/en/verify/51600993796065 </a>
-https://user-images.githubusercontent.com/80968031/143255078-72d78857-c1c3-4e2e-853a-69e8e19a5c5c.png  </a>
+##
+<a href ="https://verified.cv/en/verify/51600993796065" target ="_blank">
+<a href ="https://user-images.githubusercontent.com/80968031/143255078-72d78857-c1c3-4e2e-853a-69e8e19a5c5c.png ="_blank">
 
 ### Connect with me:
 
-
- <p align ="center">
  <a href ="https://www.linkedin.com/in/mustafayasar44/" target ="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
  <a href ="https://discord.com/" target ="_blank"> </a>
  
