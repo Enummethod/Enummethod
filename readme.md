@@ -1,9 +1,6 @@
 # Stay Hungry Stay Foolish(Steve Jobs).  
-## Certificate
-<a href ="https://verified.cv/en/verify/51600993796065" target ="_blank"> "Fırat Kalkınma Ajansı Bootcamp-Kodluyoruz" </a> 
-
-
-<a href ="https://user-images.githubusercontent.com/80968031/143256952-54ca65a7-ae4c-4fbd-a78f-a0f2d4a98245.png" target ="_blank"> "Btk Akademi" </a>
+## Hi, I am Mustafa.
+I am developing myself in Java, Web technologies. You can review my work in these areas and provide feedback.
 
 
 
