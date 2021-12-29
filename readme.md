@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/Enummethod/Enummethod/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Enummethod&count_private=true&show_icons=true&hide=prs,issues&include_all_commits=true&hide_border=true&custom_title=My%20Stats&title_color=6cff95&text_color=ffffff&icon_color=2bbc8a&bg_color=22272e" alt="Mustafa's github stats" /></a> | <a href="https://github.com/Enummethod/Enummethod/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enummethod&langs_count=8&layout=compact&hide_border=true&title_color=6cff95&text_color=ffffff&icon_color=2bbc8a&bg_color=22272e" /></a> |
 | ------------- | ------------- |
 
-<!--![Updated](https://badges.pufler.dev/updated/ozge-demiryol/ozge-demiryol)-->
+<!--![Updated](https://badges.pufler.dev/updated/Enummethod/Enummethod)-->
 
 ![Visitor](https://badges.pufler.dev/visits/Enummethod/Enummethod?style=flat-square&color=6cff95&bg_color=22272e&labelColor=22272e)
 ![Commits in a month](https://badges.pufler.dev/commits/monthly/Enummethod?style=flat-square&color=6cff95&bg_color=22272e&labelColor=22272e)
