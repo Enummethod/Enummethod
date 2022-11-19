@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <a href ="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
  <a href ="https://www.docker.com/" target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/143250166-f383d00e-92ac-4840-abd5-c070af9bc5e7.png"/></a>  
  <a href ="https://docs.microsoft.com/tr-tr/visualstudio/get-started/csharp/?view=vs-2019" target ="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/></a> 
- <a href ="https://docs.microsoft.com/tr-tr/visualstudio/get-started/csharp/?view=vs-2019" target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/202824452-f506ab2c-a186-4911-b361-419f426076f6.png"/></a> 
+ <a href ="https://www.postgresql.org/" target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/202824452-f506ab2c-a186-4911-b361-419f426076f6.png"/></a> 
  </p>
 
 ## 📈 Stats
