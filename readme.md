@@ -16,7 +16,7 @@ Here are some ideas to get you started:
                                                     System.out.println("Hello ¡pๅɹoʍ");
                                                   
 <p align = "center">
-<a href ="https://www.world.com" target ="_blank"> <img src="https://user-images.githubusercontent.com/80968031/202825096-e1bae183-88f6-4483-af82-16dee09c5a7d.gif"/></a> </p>
+<img src="https://user-images.githubusercontent.com/80968031/202825096-e1bae183-88f6-4483-af82-16dee09c5a7d.gif"/></a> </p>
 
  :no_entry: Sahra çölüne yağmur yağıyor.                          
  :no_entry: Kaliforniya çölü artık nemli.                    
